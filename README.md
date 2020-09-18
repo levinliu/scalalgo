@@ -1,0 +1,2 @@
+# scalalgo
+algo in scala
